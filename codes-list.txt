@@ -1,0 +1,18 @@
+Here is the list of git commands for remember purpose
+
+To Clone the repository
+    
+>>    git clone [url of the git repository]
+
+To Add something to the git hub includes 3 different Processes
+    1. Add a file to git this means, we are telling git that also add this file next time i commit file to my git.
+        
+    >>    git add [some file name]
+    
+    2. after specifing the files that we want to commit we actually use 'commit'
+
+    >>    git comit -m "message"
+    
+    3. Pushing the files to git repository
+
+    >>    git push
