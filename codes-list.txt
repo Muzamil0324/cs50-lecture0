@@ -16,3 +16,7 @@ To Add something to the git hub includes 3 different Processes
     3. Pushing the files to git repository
 
     >>    git push
+
+To see the status of you git repository:
+
+>>    git status
